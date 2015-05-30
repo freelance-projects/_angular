@@ -27,6 +27,10 @@
       {
         "name": "dataServices",
         "file": "services/data-services.js"
+      },
+      {
+        "name": "paymentModule",
+        "file": "payment-module/payment-module.js"
       }
     ]
   }
