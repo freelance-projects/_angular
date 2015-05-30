@@ -35,6 +35,10 @@
       {
         "name": "paymentModule",
         "file": "payment-module/payment-module.js"
+      },
+      {
+        "name": "myModule",
+        "file": "my-modul/my-module.js"
       }
     ]
   }
