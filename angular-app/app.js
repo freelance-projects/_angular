@@ -20,6 +20,7 @@ angular.module('angularAppModule').run(function($rootScope) {
         } else {
             this.$apply(fn);
         }
+
         console.log('dataa')
     };
 
