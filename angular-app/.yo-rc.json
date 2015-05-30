@@ -39,6 +39,10 @@
       {
         "name": "myModule",
         "file": "my-modul/my-module.js"
+      },
+      {
+        "name": "secondModule",
+        "file": "second module/second-module.js"
       }
     ]
   }
