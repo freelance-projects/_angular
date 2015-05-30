@@ -1,4 +1,5 @@
 angular.module('angularAppModule', ['ui.bootstrap', 'ui.utils', 'ui.router', 'ngAnimate', 'dataServices', 'dataServices', 'productStore']);
+angular.module('angularAppModule', ['ui.bootstrap', 'ui.utils', 'ui.router', 'ngAnimate', 'dataServices', 'dataServices', 'paymentModule']);
 
 angular.module('angularAppModule').config(function($stateProvider, $urlRouterProvider) {
 

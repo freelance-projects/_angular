@@ -31,6 +31,10 @@
       {
         "name": "productStore",
         "file": "product-store/product-store.js"
+      },
+      {
+        "name": "paymentModule",
+        "file": "payment-module/payment-module.js"
       }
     ]
   }
